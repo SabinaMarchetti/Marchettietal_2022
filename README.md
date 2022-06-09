@@ -1,2 +1,3 @@
-# Marchettietal_2022
-An epidemic model for SARS-CoV-2 with self-adaptive containment measures
+## An epidemic model for SARS-CoV-2 with self-adaptive containment measures
+
+By Sabina Marchetti, Alessandro Borin, Francesco Paolo Conteduca, Giuseppe Ilardi, Giorgio Guzzetta, Piero Poletti, Patrizio Pezzotti, Antonino Bella, Paola Stefanelli, Flavia Riccardo, Stefano Merler, Andrea Brandolini, Silvio Brusaferro
